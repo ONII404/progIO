@@ -1,9 +1,6 @@
 package app;
 
-import app.clases.ModeloMultipleServidores;
-import app.clases.ModeloFuenteFinita;
 import app.clases.Compra;
-import app.clases.ModeloUnServidor;
 import app.clases.Descuento;
 import app.clases.Produccion;
 import java.util.Scanner;
